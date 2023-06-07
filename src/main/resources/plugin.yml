@@ -1,0 +1,4 @@
+name: baicmd-plugin
+version: '${project.version}'
+main: br.com.baicmdplugin.Baicmd_plugin
+api-version: 1.19
